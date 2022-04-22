@@ -1,0 +1,2 @@
+C:\Users\jongh\source\repos\3x3puzzle\Debug\3x3puzzle.exe
+C:\Users\jongh\source\repos\3x3puzzle\Debug\3x3puzzle.pdb
