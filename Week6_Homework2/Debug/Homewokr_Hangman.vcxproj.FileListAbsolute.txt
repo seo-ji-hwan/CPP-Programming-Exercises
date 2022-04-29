@@ -1,0 +1,4 @@
+C:\Users\jongh\source\repos\Homewokr_Hangman\Debug\Homewokr_Hangman.exe
+C:\Users\jongh\source\repos\Homewokr_Hangman\Debug\Homewokr_Hangman.pdb
+C:\Users\jongh\source\repos\Week6_Homework1\Debug\Homewokr_Hangman.exe
+C:\Users\jongh\source\repos\Week6_Homework1\Debug\Homewokr_Hangman.pdb
