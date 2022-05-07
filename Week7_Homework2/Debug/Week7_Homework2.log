@@ -1,0 +1,3 @@
+﻿  Week7_Homework2.cpp
+C:\Users\jongh\source\repos\Week7_Homework2\Week7_Homework2.cpp(4,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Week7_Homework2.vcxproj -> C:\Users\jongh\source\repos\Week7_Homework2\Debug\Week7_Homework2.exe
